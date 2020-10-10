@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\task3\eSports\eSports\bin\Debug\eSports.exe.config
+C:\Users\david\Desktop\task3\eSports\eSports\bin\Debug\eSports.exe
+C:\Users\david\Desktop\task3\eSports\eSports\bin\Debug\eSports.pdb
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.csprojAssemblyReference.cache
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.eSportsform.resources
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.Properties.Resources.resources
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.csproj.GenerateResource.cache
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.exe
+C:\Users\david\Desktop\task3\eSports\eSports\obj\Debug\eSports.pdb
